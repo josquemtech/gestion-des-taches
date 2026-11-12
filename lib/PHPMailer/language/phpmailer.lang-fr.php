@@ -1,0 +1,20 @@
+<?php
+$PHPMAILER_LANG['authenticate']         = 'Erreur SMTP : Impossible de s\'authentifier.';
+$PHPMAILER_LANG['connect_host']         = 'Erreur SMTP : Impossible de se connecter au serveur SMTP.';
+$PHPMAILER_LANG['data_not_accepted']    = 'Erreur SMTP : Données non acceptées.';
+$PHPMAILER_LANG['empty_message']        = 'Corps du message vide';
+$PHPMAILER_LANG['encoding']             = 'Encodage inconnu : ';
+$PHPMAILER_LANG['execute']              = 'Impossible d\'exécuter la commande : ';
+$PHPMAILER_LANG['file_access']          = 'Impossible d\'accéder au fichier : ';
+$PHPMAILER_LANG['file_open']            = 'Ouverture du fichier impossible : ';
+$PHPMAILER_LANG['from_failed']          = 'L\'adresse d\'expéditeur suivante a échoué : ';
+$PHPMAILER_LANG['instantiate']          = 'Impossible d\'instancier la fonction mail.';
+$PHPMAILER_LANG['invalid_address']      = 'L\'adresse email n\'est pas valide : ';
+$PHPMAILER_LANG['mailer_not_supported'] = ' client de messagerie non supporté.';
+$PHPMAILER_LANG['provide_address']      = 'Vous devez fournir au moins une adresse email de destinataire.';
+$PHPMAILER_LANG['recipients_failed']    = 'Erreur SMTP : Les destinataires suivants ont échoué : ';
+$PHPMAILER_LANG['signing']              = 'Erreur de signature : ';
+$PHPMAILER_LANG['smtp_connect_failed']  = 'Échec de la connexion SMTP.';
+$PHPMAILER_LANG['smtp_error']           = 'Erreur du serveur SMTP : ';
+$PHPMAILER_LANG['variable_set']         = 'Impossible d\'initialiser ou de réinitialiser une variable : ';
+$PHPMAILER_LANG['extension_missing']    = 'Extension manquante : ';
